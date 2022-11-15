@@ -1,0 +1,184 @@
+.ota {
+  width: 500px;
+  height: 170px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: 20px;
+  justify-content: center;
+}
+.red {
+  width: 100px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.red:hover {
+  width: 100px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: red;
+  color: white;
+  border: 2px solid black;
+  transition: 0.4s;
+}
+.blue {
+  width: 100px;
+  height: 70px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.blue:hover {
+  width: 100px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: blue;
+  color: white;
+  border: 2px solid black;
+  transition: 0.4s;
+}
+.grenn {
+  width: 100px;
+  height: 70px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.grenn:hover {
+  width: 100px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: green;
+  color: white;
+  border: 2px solid black;
+  transition: 0.4s;
+}
+.gray {
+  width: 100px;
+  height: 70px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.gray:hover {
+  width: 100px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: gray;
+  color: white;
+  border: 2px solid black;
+  transition: 0.4s;
+}
+.pink {
+  width: 100px;
+  height: 70px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.pink:hover {
+  width: 100px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: pink;
+  color: white;
+  border: 2px solid black;
+  transition: 0.4s;
+}
+.black {
+  width: 100px;
+  height: 70px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.black:hover {
+  width: 100px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+  transition: 0.4s;
+}
+.gold {
+  width: 100px;
+  height: 70px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.gold:hover {
+  width: 100px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: gold;
+  color: white;
+  border: 2px solid black;
+  transition: 0.4s;
+}
+.peru {
+  width: 100px;
+  height: 70px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.peru:hover {
+  width: 100px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: peru;
+  color: white;
+  border: 2px solid black;
+  transition: 0.4s;
+}
